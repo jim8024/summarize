@@ -343,3 +343,9 @@ init,add,commit
 git branch -m main
  git remote add origin url
 git push -u origin main
+
+업로드시
+add
+commit
+git push origin main
+
