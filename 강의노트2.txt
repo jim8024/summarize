@@ -337,3 +337,9 @@ git remote add origin https://github.com/jim8024/visual_work.git
 git checkout origin/master
 
 push가 실패하면 페치 머지후 push
+
+새로운 파일 올릴때
+init,add,commit
+git branch -m main
+ git remote add origin url
+git push -u origin main
