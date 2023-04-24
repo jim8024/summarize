@@ -1,0 +1,16 @@
+git
+git push origin master
+push 하는법
+
+ git remote add origin https://github.com/jim8024/visual_work.git
+리모트 저장소 등록
+
+git remote rm test
+rename
+
+git push -u origin master
+깃헙에 올리기(오리진 이라는 원격저장소에  마스터 브랜치의 
+커밋이력을 업로드 하겠다)
+
+master branch 와 origin/master merge 하면 된다
+fetch 하고 merge(pull)
