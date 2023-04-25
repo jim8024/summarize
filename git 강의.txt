@@ -14,3 +14,9 @@ git push -u origin master
 
 master branch 와 origin/master merge 하면 된다
 fetch 하고 merge(pull)
+
+git fetch origin master
+오리진 이라는 이름의 원격 저장소에서 마스터 브랜치의 커밋 이력을 내려받기
+ git merge origin/master
+페치 다음 머지 두개 한번에 하려면 pull
+git pull origin master
